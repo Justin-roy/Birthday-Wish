@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BirthDay Wish</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="Click">click</string>
+    <string name="justin_roy">Justin Roy</string>
+</resources>
